@@ -102,7 +102,7 @@ export default function Home() {
             </ul>
           </div>
           <div className="card highlight">
-            <h3>LearnAble</h3>
+            <h3>AccessEd</h3>
             <ul className="feature-list">
               <li><strong>Video · Easy Text · Audio</strong></li>
               <li><strong>Captions + transcripts</strong></li>
