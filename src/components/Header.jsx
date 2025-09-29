@@ -46,7 +46,7 @@ export default function Header({ onLogoClick }) {
         <div className="brand brand-fixed">
           <div className="logo" aria-hidden="true"></div>
           <button className="brand-link" onClick={() => { onLogoClick(); setOpen(false); }} aria-label="Go to home">
-            AccessEd
+            LearnAble
           </button>
         </div>
 
